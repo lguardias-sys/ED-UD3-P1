@@ -15,3 +15,4 @@ El volumen de Cuerpo{tipo='esfera', altura=-1.0, radio=4.0} es: 268.082573106329
 El volumen de Cuerpo{tipo='cilindro', altura=3.2, radio=6.0} es: 361.91147369354417
 
 _Hay que entregar el código corregido de ambas clases y un pantallazo por cada error (6) con un breakpoint en la línea modificada en cada caso. Se debe ver la línea antes de ser modificada y los valores de las las variables (si es posible)._
+_modificación_
